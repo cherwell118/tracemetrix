@@ -12,6 +12,18 @@ TraceMetrix: a traceable metabolomics interactive analysis platform
         
         
         
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
               
 2. The data is derived from early-stage lung cancer samples, which include 30 cancer samples, 30 healthy individual samples, and 8 QC (Quality Control) samples. Each type of sample contains both positive and negative modes. All data including MS/MS informations.
 3. Due to the upload limitations on GitHub, all the original data files have been compressed using 7z and segmented.
@@ -19,4 +31,8 @@ TraceMetrix: a traceable metabolomics interactive analysis platform
 1. R function contains the underlying R code for all analytical functions in TraceMatrix.
 2. R packge including some R functions were used in analytical functions
 # Web use
-We also
+## Test account and password
+We have also provided an account for free login. **Do not delete the analysis records inside!**
+Login:tracemetrix@163.com
+Password:tracemetrix@1234
+
